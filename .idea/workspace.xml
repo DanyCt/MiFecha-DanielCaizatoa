@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="35c0bb56-8d1d-46ff-b483-60aaa8a99c32" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/uce/edu/ec/MiFecha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestMiFecha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie_Fibonacci/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie_Fibonacci/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie_Fibonacci/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie_Fibonacci/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie_Fibonacci/src/main/java/uce/edu/ec/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoPark/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoPark/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoPark/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoPark/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoPark/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoPark/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoPark/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoPark/src/main/java/ec/edu/uce/consola/MenuPrincipal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoPark/src/main/java/ec/edu/uce/consola/SubMenuAcceso.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoPark/src/main/java/ec/edu/uce/consola/SubMenuAparcamiento.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoPark/src/main/java/ec/edu/uce/consola/SubMenuCobro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoPark/src/main/java/ec/edu/uce/consola/SubMenuCredenciales.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoPark/src/main/java/ec/edu/uce/consola/SubMenuCuenta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoPark/src/main/java/ec/edu/uce/dominio/Autopark.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoPark/src/main/java/ec/edu/uce/dominio/EspacioAparcamiento.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoPark/src/main/java/ec/edu/uce/dominio/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoPark/src/main/java/ec/edu/uce/dominio/Ticket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoPark/src/main/java/ec/edu/uce/dominio/TicketCarga.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoPark/src/main/java/ec/edu/uce/dominio/Usuario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoPark/src/main/java/ec/edu/uce/dominio/Vehiculo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoPark/src/main/java/ec/edu/uce/util/Validacion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoPark/src/test/java/TestAutoPark.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoPark/src/test/java/TestEspacioAparcamiento.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoPark/src/test/java/TestTicket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoPark/src/test/java/TestTicketCarga.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoPark/src/test/java/TestUsuario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoPark/src/test/java/TestVehiculo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProyectAutoPark/src/main/java/uce/edu/ec/consola/gui/Menu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProyectAutoPark/src/main/java/uce/edu/ec/consola/gui/SubMenu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProyectAutoPark/src/main/java/uce/edu/ec/dominio/AutoPark.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProyectAutoPark/src/main/java/uce/edu/ec/dominio/EspacioAparcamiento.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProyectAutoPark/src/main/java/uce/edu/ec/dominio/Ticket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProyectAutoPark/src/main/java/uce/edu/ec/dominio/TicketCarga.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProyectAutoPark/src/main/java/uce/edu/ec/dominio/Usuario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProyectAutoPark/src/main/java/uce/edu/ec/dominio/Vehiculo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProyectAutoPark/src/main/java/util/Validaciones.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Repo4_OrderArray" beforeDir="false" afterPath="$PROJECT_DIR$/../Repo4_OrderArray" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Repo5_OrderArray2" beforeDir="false" afterPath="$PROJECT_DIR$/../Repo5_OrderArray2" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2pXFwSs2Awhx43vR0DuUjCeVbqf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestMiFecha.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35c0bb56-8d1d-46ff-b483-60aaa8a99c32" name="Changes" comment="" />
+      <created>1732904752173</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732904752173</updated>
+    </task>
+    <servers />
+  </component>
+</project>
